@@ -59,5 +59,4 @@ I sincerely thank the internship organization for providing me with the opportun
 ## 📬 Contact
 **Name:** Ritesh Shende  
 **Field:** Information Technology Student  
-**GitHub:** (Add your profile link)  
-**LinkedIn:** (Add your profile link)
+
