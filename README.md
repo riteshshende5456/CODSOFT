@@ -43,19 +43,6 @@ This project demonstrates CRUD operations and searching algorithms.
 
 ---
 
-## ▶ How to Run Java Program
-Compile:
-```bash
-javac ProgramName.java
-```
-
-Run:
-```bash
-java ProgramName
-```
-
----
-
 ## 📚 Learning Outcomes
 - Improved Java programming skills
 - Understanding of program flow and logic building
