@@ -1,70 +1,76 @@
-# 💻 Internship Projects Repository
+# ☕ Java Programming Internship Repository
 
 ## 📌 About
-This repository contains all the projects and tasks completed during my internship. The purpose of this repo is to showcase my practical learning, coding skills, and problem-solving ability developed throughout the internship period.
+This repository contains all the tasks and projects completed during my **Java Programming Internship**. It demonstrates my understanding of core Java concepts, problem-solving skills, and practical implementation of programming logic.
 
 ---
 
 ## 🎯 Internship Objective
-- Apply theoretical knowledge to real-world problems  
-- Improve programming and development skills  
-- Learn industry-level coding practices  
-- Gain hands-on experience with projects  
+- Learn core Java programming concepts
+- Develop logical thinking and coding skills
+- Build small real-world applications
+- Understand program structure and algorithms
 
 ---
 
-## 📂 Projects Included
-| No. | Project Name | Description |
-|-----|--------------|-------------|
-| 1 | Number Checker Program | Checks whether number is valid (1–100 range validation). |
-| 2 | TCP Client-Server Programs | Networking programs for sending numbers/text. |
-| 3 | RSA Algorithm | Implementation of RSA encryption in C/Python. |
-| 4 | Other Tasks | Additional assignments given during internship. |
+## 📂 Tasks Included
 
-*(Update this table as you add more projects)*
+### 🔹 Task 1 – Number Game
+A simple Java program where the user guesses a number within a given range. The program gives hints if the guess is too high or too low and validates input range.
+
+### 🔹 Task 4 – Currency Converter
+A menu-driven program that converts one currency into another using predefined conversion rates.
+
+### 🔹 Task 5 – Student Management System
+A console-based system that allows:
+- Adding student records
+- Viewing records
+- Searching students
+- Updating details
+- Deleting records
+
+This project demonstrates CRUD operations and searching algorithms.
 
 ---
 
 ## 🛠️ Technologies Used
-- C Programming  
-- Python  
-- Socket Programming  
-- Cryptography Basics  
-- Git & GitHub  
+- Java (Core Java)
+- OOP Concepts
+- Conditional Statements
+- Loops
+- Arrays / Data Structures
+- Scanner Class for Input
 
 ---
 
-## 🚀 How to Run Programs
-
-### ▶ Run C Program
+## ▶ How to Run Java Program
+Compile:
 ```bash
-gcc program.c -o program
-./program
+javac ProgramName.java
 ```
 
-### ▶ Run Python Program
+Run:
 ```bash
-python program.py
+java ProgramName
 ```
 
 ---
 
-## 📚 What I Learned
-- Writing structured and efficient code  
-- Debugging and error handling  
-- Networking concepts  
-- Encryption basics  
-- Version control using Git  
+## 📚 Learning Outcomes
+- Improved Java programming skills
+- Understanding of program flow and logic building
+- Experience with menu-driven applications
+- Implementation of real-world problem solutions
 
 ---
 
-## 🤝 Acknowledgement
-I sincerely thank my internship organization for giving me the opportunity to learn, build, and grow my technical skills through practical tasks and projects.
+## 🙏 Acknowledgement
+I sincerely thank the internship organization for providing me with the opportunity to enhance my programming skills and gain hands-on experience with Java development.
 
 ---
 
 ## 📬 Contact
 **Name:** Ritesh Shende  
-**Role:** IT Student & Intern  
+**Field:** Information Technology Student  
 **GitHub:** (Add your profile link)  
 **LinkedIn:** (Add your profile link)
